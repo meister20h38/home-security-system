@@ -11,7 +11,7 @@ Raspberry Pi 5 を活用した、既存の住居に後付け可能な「人検�
 - [🚀 今後の展望](#-今後の展望)
 
 ## 📷 デモ
-![Demo](./assets/Demo_for_git.gif)
+https://github.com/meister20h38/home-security-system/assets/Demo_for_git.mp4
 
 ## 🌟 特徴
 - **人感センサーによる自動検知**: 動きを検出し、システムをトリガーします。
